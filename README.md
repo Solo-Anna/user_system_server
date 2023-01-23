@@ -1,2 +1,2 @@
 # user_system_server
-Server with flask and mongodb
+Server for user data_base with flask and mongodb
